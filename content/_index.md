@@ -1,9 +1,9 @@
 ---
-title: 🪴 Quartz 3.
+title: 🪴 Dwiperdana's Journal.
 enableToc: false
 ---
 
-hello world
+hello world. This is another attempt to create my personal website to store learning notes about game industry.
 
 ---
 

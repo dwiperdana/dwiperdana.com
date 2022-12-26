@@ -5,6 +5,13 @@ enableToc: false
 
 hello world. This is another attempt to create my personal website to store learning notes about game industry.
 
+Rough idea on what to put in this site:
+- Company review from game industry
+	- e.g. [[companies/Keyword Studios]]
+- Content summary (podcast, video, course?)
+- Learning curriculum and notes
+	- General competence
+
 ---
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features

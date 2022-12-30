@@ -57,6 +57,7 @@ We don't live in an ideal world, so we usually have 3-5 things on our to do list
 - Area
 - Resouces
 - Archive
+
 Some good notes I took:
 - Everything should be in a project or responsibility
 - Every project should be supporting a goal

@@ -24,6 +24,8 @@ If you do the first step correctly, you can be confident that you won't miss a t
 - **Urgent Important**: These are the tasks that always comes up in your day by day, but can't be postponed. Firefighting, they said. Like it or not, you need to ==finish them==. But make sure they don't consume the time for your important tasks.
 - **Urgent Not Important**: These are small tasks that wants your attention and usually took a lot of time. You should ==delegate them== to your team member. If you don't have any team member you can delegate to, make sure you put efforts to simplify the task by creating [[templates]], do them in [[batch]], or better, make some kind of [[automation]].
 - **Not Urgent Not Important**: These tasks should not have your attention, why do things that are not important nor urgent. Usually these tasks are things that are 'nice to have' or just an 'idea' from other people. ==Delete them==.
+
+![](img/prioritize.svg)
 #### **Next action** (Doing): 
 > Pick the most important task as your next item. Don't do other task before the next item is done.
 

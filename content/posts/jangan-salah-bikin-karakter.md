@@ -5,7 +5,6 @@ date: 2020-12-17T15:42:18+07:00
 draft: false
 tags: 
     - life is a game
-    - post
     - id
     - archive
 summary: "Hidup ini seperti game, kita membangun seorang karakter untuk menjalani berbagai petualangan dalam hidup. Kalau salah bikin karakter, hunting untuk naikin level bakal susah dan nggak ada party/guild yang mau nerima. Dalam kehidupan nyata, kita juga perlu melakukan character building. Profesi yang ingin kamu jalani adalah ‘Class’, passive skill itu Softskill, active skill itu hardskill, dan atribut bonus lain didapat dari attitude, personality, dll."

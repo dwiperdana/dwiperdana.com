@@ -4,7 +4,6 @@ alias: "Perlukah kita mengingat? 🧠"
 date: 2020-02-24T15:42:18+07:00
 draft: false
 tags:
-- post
 - archive
 - self improvement
 - id

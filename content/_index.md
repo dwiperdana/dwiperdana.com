@@ -3,15 +3,16 @@ title: 📚 Dwiperdana's Journal.
 enableToc: false
 ---
 
-Hello! Welcome to my corner on the internet, my name is [Aditia](about). This is the where I put my latest writings and notes. You can find notes about game development, personal improvement, and other stuff that interest me. But please note that I write in English and Indonesian 👍
+Hello! Welcome to my corner on the internet, my name is [Aditia](about). This is the where I put my latest writings and notes. You can find notes about game development, personal improvement, and other stuff that interest me. But please note that I write in [English](tags/en) and [Indonesian](tags/id) 👍
 
 If you somehow want to contact me, you can hit me on [Twitter](https://twitter.com/dwiperdana).
 
 # Active Projects
 - Personal Improvement notes
 	- e.g.  [[posts/task management|✅ How my personal task management changed over the years?]]
-- [Game Development Company reviews ](tags/company)
-	- e.g. [[companies/Keyword Studios]]
+- [Game Development Company reviews](tags/company)
+	- [[companies/public game companies|List of public game companies 🏢]]
+	- [[companies/keywords|Keywords Studios]]
 
 # Bucket List
 - People in Gamedev

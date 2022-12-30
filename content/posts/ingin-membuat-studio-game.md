@@ -5,7 +5,6 @@ date: 2020-12-14T15:42:18+07:00
 draft: false
 summary: "Sebagian orang terjun ke industri game untuk *membuat studio game*, tapi apakah benar kamu ingin membuat studio? Ataukah kamu hanya ingin membuat game? Apakah kamu tahu yang harus dilakukan untuk *membuat studio game*?"
 tags:
-- post
 - id
 - archive
 - game development

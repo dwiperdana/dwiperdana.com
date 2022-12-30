@@ -2,7 +2,6 @@
 date: 2021-08-22T06:00:00Z
 summary: "Internet adalah surga bagi para pembelajar, tapi bagaimana cara kita menentukan apa yang layak kita pelajari?"
 tags:
-- post
 - archive
 - id
 - Self Improvement

@@ -5,7 +5,6 @@ date: 2020-12-18T15:42:18+07:00
 draft: false
 tags: 
     - life is a game
-    - post
     - id
     - archive
 summary: "Banyak orang yang saat diinterview bilang: “saya ingin menjadi game programmer dan bikin game seperti Final Fantasy”. Tapi giliran ditanya, berapa jam dia coding game tiap hari: “sekarang sih masih jarang, soalnya sibuk kuliah dll dsb dst”. Kamu akan ketinggalan banyak kalau baru belajar skill yang dibutuhkan di profesi setelah lulus kuliah. Atlit kelas dunia semua mulai berlatih sejak kecil, nggak ada yang nunggu lulus kuliah dulu baru mulai berlatih."

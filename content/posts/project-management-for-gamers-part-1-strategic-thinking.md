@@ -6,7 +6,6 @@ draft: false
 tags:
 - archive
 - id
-- post
 ---
 
 Saya belajar banyak hal dari ratusan jam bermain Harvest Moon di PS1, mulai dari kemampuan berbahasa Inggris, stereotipe NPC dating sim, sampai project management. *Yes, you heard me right*, skill yang sehari-hari saya pake di kerjaan, saya pelajari dari Harvest Moon.

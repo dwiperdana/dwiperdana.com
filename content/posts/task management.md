@@ -2,7 +2,6 @@
 title: "✅ How my personal task management changed over the years?"
 alias: "✅ How my personal task management changed over the years?"
 tags:
-- post
 - productivity
 - wip
 - en

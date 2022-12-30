@@ -5,7 +5,6 @@ date: 2021-08-22T13:00:00+07:00
 draft: false
 tags: 
     - Habits
-    - post
     - id
     - self improvement
 summary: "Kebiasaan malu menjawab akan menghambat kesuksesan kita, dan karena manusia itu sulit berubah, kelakuan kita saat ini akan mencerminkan kelakuan kita di masa depan."

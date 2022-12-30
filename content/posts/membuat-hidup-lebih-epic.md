@@ -5,7 +5,6 @@ date: 2020-12-19T15:42:18+07:00
 draft: false
 tags: 
 - life is a game
-- post
 - archive
 - id
 summary: "Kamu adalah tokoh utama dari hidup kamu sendiri, pilihan apa yang akan jika kamu adalah seorang hero dalam game?"

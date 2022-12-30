@@ -4,7 +4,6 @@ alias: "Bagaimana Agate menangani anggota tim dengan jumlah besar?"
 publishDate: 2020-12-16T15:42:18+07:00
 draft: false
 tags:
-- post
 - archive
 - agate
 - id

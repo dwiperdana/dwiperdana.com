@@ -7,8 +7,8 @@ tags:
 - video
 - id
 - archive
-title: "Habits of Effective Artist - Andrew Price/Blender Guru"
-alias: "Habits of Effective Artist - Andrew Price/Blender Guru"
+title: "Habits of Effective Artist - Andrew Price (Blender Guru)"
+alias: "Habits of Effective Artist - Andrew Price (Blender Guru)"
 summary: "Presentasi Andrew Price/Blender Guru di Blender Conference 2016. Walau judul dan study casenya di bidang art, saya rasa tetap berguna untuk kita yang bekerja di bidang kreatif seperti writing, coding, etc."
 draft: false
 ---
@@ -18,11 +18,11 @@ Presentasi Andrew Price/Blender Guru di Blender Conference 2016. Walau judul dan
 
 1. Daily Work
 
-    Lebih baik rutin walau sebentar/sedikit, dibanding jarang tapi tiba-tiba banyak. Note: ini juga berlaku di aspek fitness, ada istilah \['Grease the groove' by Pavel Tatsouline\]([https://www.youtube.com/watch?v=Eauf9VNIdRI](https://www.youtube.com/watch?v=vM39qhXle4g "https://www.youtube.com/watch?v=vM39qhXle4g")). Singkatnya semakin sering berlatih, neuron di otak kita akan membuat 'jalan tol' yang akan membuat suatu proses/kegiatan jadi lebih efektif.
+    Lebih baik rutin walau sebentar/sedikit, dibanding jarang tapi tiba-tiba banyak. Note: ini juga berlaku di aspek fitness, ada istilah ['Grease the groove' by Pavel Tatsouline](https://www.youtube.com/watch?v=Eauf9VNIdRI). Singkatnya semakin sering berlatih, neuron di otak kita akan membuat 'jalan tol' yang akan membuat suatu proses/kegiatan jadi lebih efektif.
 
 2. Volume, not perfection
 
-    For every good art, there will be a lot of bad ones on the way. Andrew sempat mention Ira Glass dari The American Life, salah satu cerita dari Ira Glass yang paling saya ingat adalah tentang \[ekspektasi vs realita saat mulai berkarya\]([https://www.youtube.com/watch?v=GHrmKL2XKcE](https://www.youtube.com/watch?v=vM39qhXle4g "https://www.youtube.com/watch?v=vM39qhXle4g")):
+    For every good art, there will be a lot of bad ones on the way. Andrew sempat mention Ira Glass dari The American Life, salah satu cerita dari Ira Glass yang paling saya ingat adalah tentang [ekspektasi vs realita saat mulai berkarya](https://www.youtube.com/watch?v=GHrmKL2XKcE):
 
     > Kita mulai berkarya karena kita kita suka dan punya selera tinggi terhadap sesuatu, tapi saat kita memulai berkarya, justru selera kita itu yang akan membuat kita kecewa atas hasil karya kita sendiri, padahal karya di awal-awal pasti jelek alias tidak bisa mencapai selera kita yang sudah tinggi. Dan ini bisa membuat kita berhenti berkarya. Hal ini normal, kita justru harus bisa melalui fase itu.
 

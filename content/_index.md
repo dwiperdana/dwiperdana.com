@@ -23,7 +23,7 @@ If you somehow want to contact me, you can hit me on [Twitter](https://twitter.c
 - Book and talks summary
 	- [[posts/turn-the-ship-around-book-review|Turn the Ship Around! | Book Review]]
 	- [[posts/game-producer-s-to-do-list|Game Producer's To Do List]]
-	- [[posts/habits-of-effective-artist-andrew-price-blender-guru|Habits of Effective Artist - Andrew Price/Blender Guru]]
+	- [[posts/habits-of-effective-artist-andrew-price-blender-guru|Habits of Effective Artist - Andrew Price (Blender Guru)]]
 - Life is a game
 	- [[posts/jangan-salah-bikin-karakter|Jangan salah bikin karakter 🙈]]
 	- [[posts/gunakan-waktu-dengan-bijak|Gunakan waktu dengan bijak]]

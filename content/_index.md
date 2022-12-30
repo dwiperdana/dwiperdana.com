@@ -11,7 +11,7 @@ If you somehow want to contact me, you can hit me on [Twitter](https://twitter.c
 - [Game Development Company reviews ](tags/company)
 	- e.g. [[companies/Keyword Studios]]
 - Personal Improvement notes
-	- e.g. [[posts/How my personal task management changed over the years]]?
+	- e.g.  [[posts/task management|✅ How my personal task management changed over the years?]]
 
 # Bucket List
 - People in Gamedev

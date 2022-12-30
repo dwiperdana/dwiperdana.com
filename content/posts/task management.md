@@ -5,13 +5,14 @@ tags:
 - post
 - productivity
 - wip
+- en
 ---
 
 Over the years, I tried a lot of tools and system to keep myself to be productive. Some works, some don't. Here are several notable tools and system I remember, and my current task management setup.
 
 ## System
 ### 🤷‍♂️ No system
-This is where I started, knowing nothing about task management or schedules/timetable. A lot of things I forgot to bring to school, homework done before the class starts, and of course quizes that I didn't prepare the night before. FYI, I made my first ever timetable in my first year of college 🙃 I don't know how I survived until high school.
+This is where I started, knowing nothing about task management or schedules/timetable. A lot of things I forgot to bring to school, homework done before the class starts, and of course quizes that I didn't prepare the night before. FYI, ==I made my first ever timetable in my first year of college 🙃== I don't know how I survived until high school.
 ### ☑ To do lists
 Ah, the almighty to do lists. It was simple enough, write down the things you want to do, and it will be done. Right?
 
@@ -79,6 +80,7 @@ You will forget stuff
 ### 📓 Paper Notebook
 you can't search on your book
 ### 📧 Email
+I actually wrote about email as productivity tool, [back in 2013](http://dwiperdana.blogspot.com/2013/04/5-tips-agar-inbox-email-kita-menjadi.html).
 - using folder/tags on gmail
 - not relevant anymore because most of work/communication using chat now (Teams, Slack)
 - pros:
@@ -116,4 +118,4 @@ This is my latest improvement to my task management system in 2022.
 > I put all my notes, files, and bookmarks in one place: OneDrive
 
 - Each important project will have their own folder, with relevant files (and bookmarks) in one place
-- Several folders is actuall a 'database' of notes with similar type
+- Several folders is actually a 'database' of notes with similar type

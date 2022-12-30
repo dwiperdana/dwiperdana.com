@@ -1,5 +1,6 @@
 ---
 title: "Keyword Studios"
+tags: company
 ---
 
 Keywords Studios is a global technical and creative services provider to the video game industry. The company offers a range of services including [[audio production]], [[localization]], [[testing]], [[engineering]], [[customer support]], and [[art creation]]. Keywords Studios was founded in 1998 and has since grown to have a presence in over 50 countries around the world. It works with a wide range of clients in the video game industry, including [[game developers]], [[publishers]], and [[hardware manufacturers]].

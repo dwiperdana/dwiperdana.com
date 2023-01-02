@@ -137,7 +137,7 @@ Obsidian is the main app that I use for task management and personal knowledge m
 - ==Use a plain text format== (markdown). This is important to make sure I can still use or move my notes to other app if somehow Obsidian cease to exists in the future. Previously I used Emacs Org-mode, and because it was using a plain text format too, I can bring them to my Obsidian vault and they are still usable (and searchable too). 
 - ==Everything is a note==, except images or attachments like pdf. Just like 'everything is a page' concept by Notion, but better. I can still have 'database' or list of things like in Notion, but every item is actually a plain text note that I can edit and modify separately.
 - ==Fast==. Obsidian is faster than Notion for my use case (creating and filtering tasks, open links, view database, etc). 
-- =Easy to use, but highly customizable=. Obsidian have a lot of community plugins that add functionality on top of Obsidian, without modifying the note format (most of them depend on metadata, but it is still plain text). The most important plugins that I used: Tasks, Dataview, Periodic Notes, and Supercharged Links.
+- ==Easy to use, but highly customizable==. Obsidian have a lot of community plugins that add functionality on top of Obsidian, without modifying the note format (most of them depend on metadata, but it is still plain text). The most important plugins that I used: Tasks, Dataview, Periodic Notes, and Supercharged Links.
 ![[img/obsidian-plaintext.png]]
 The main drawback for Obsidian is that collaboration is kind of hard, not because of the file syncing across devices, but because of the notes I use was very customized, so it can be hard to understand by others. For collaboration at work, I still use mainly Notion and Excel.
 ### Daily Notes
@@ -150,7 +150,7 @@ The main drawback for Obsidian is that collaboration is kind of hard, not becaus
 	- Follow up task, either things I need to do, or things I needed from others.
 	- Decisions. I still try to note every major decision made, and the reasoning behind it, so I can use it in case there are issues related with the decision in the future. (I have a 'view' to see notes that have decision item in them)
 - I also have Weekly Notes, to help with planning and evaluation on a weekly basis. The neat thing is that I can also filter tasks based on the creation date, so I can see tasks that is due that week, and new tasks that are created that week. 
-- 
+
 ![[img/obsidian-lastweek.png]]
 ### Tasks
 - Every task is just a line of text, other properties is optional and also text based (e.g. due date, priority, etc)

@@ -1,7 +1,7 @@
 ---
 title: "Zettelkasten"
 alias: "Zettelkasten"
-draft: true
+draft: false
 tags:
 - Knowledge Management
 - Productivity

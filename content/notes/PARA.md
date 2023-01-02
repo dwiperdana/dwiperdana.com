@@ -1,7 +1,7 @@
 ---
 title: "P.A.R.A."
 alias: "P.A.R.A."
-draft: true
+draft: false
 tags:
 - Productivity
 ---

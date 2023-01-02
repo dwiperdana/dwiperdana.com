@@ -35,3 +35,4 @@ Source: [Top Game companies by market cap](https://companiesmarketcap.com/video-
 | 23  | GameStop                                        |                          |         |                                                                                           |
 | 24  | Square Enix                                     |                          |         |                                                                                           |
 | 25  | Kingsoft                                        |                          |         |                                                                                           |
+| 26  | Keywords                                        |                          |         |                                                                                           |
